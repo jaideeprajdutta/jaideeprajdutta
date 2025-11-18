@@ -8,7 +8,7 @@
 <p><br></p>
 <div>
   <div align="center">
-            <img height="400" alt="Developer Avatar" src="https://raw.githubusercontent.com/jaideeprajdutta/jaideeprajdutta/4f19ad39bfcfdc78c571b00b3e86011374494c2e/Gemini_Generated_Image_u8h1wtu8h1wtu8h1-Photoroom.png"> 
+            <img height="400" alt="Developer Avatar" src="https://raw.githubusercontent.com/jaideeprajdutta/jaideeprajdutta/main/Gemini_Generated_Image_u8h1wtu8h1wtu8h1-Photoroom(1).png"> 
   </div>
   <div align="center">
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Jaideep+Raj+Dutta;3rd+Year+B.Tech+Student;Building+Full-Stack+Web+Apps;Automation+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG"></a>
