@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>💻 Tech Stack & Tools</summary>
+<summary>💻 Tech Stack </summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
