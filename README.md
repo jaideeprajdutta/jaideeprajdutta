@@ -130,7 +130,7 @@
   One of my favourite quotes
   <blockquote>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
+    <br><strong>Chris Gardner played by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
   </blockquote>
 </details>
 
@@ -143,12 +143,12 @@
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>Reach me out</summary>
 <table style="border: none">
   <tbody><tr>
   <td width="50%" valign="top">
 <h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you have any questions, feel free to <a href="mailto:jaideeprajdutta@gmail.com">contact me by email</a>, I won’t bite, I promise.</p>
+<p>If you have any questions, feel free to <a href="mailto:jaideeprajdutta@gmail.com">contact me by email</a></p>
   </td>
   <td width="50%" valign="top">
 <h2 id="its-not-perfect-isnt-it">It’s not perfect, isn’t it?</h2>
