@@ -15,7 +15,7 @@
   </div>
 </div>
 <details>
-<summary>About me (JS-Style Doc)</summary>
+<summary>About me (JS Style Doc)</summary>
 <div align="left">
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/**</span></span>
 <span class="line"><span style="color:#6A737D"> * Represents Jaideep Raj Dutta.</span></span>
