@@ -9,8 +9,8 @@ If I find a cool new tech tool, chances are I will learn it and use it.
 My main tech stack is Cpp, Python, React, JavaScript, and Bun. My favorite tools are Kali Linux, and Figma.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,mongodb,mysql,aws,git,github,kali,python,cpp,java,figma" alt="Tech Skills" />
-</p>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwindcss,typescript,mongodb,mysql,bun,git,github,kali,python,fastapi,cpp,figma,bash" alt="Tech Skills" />
+</p
 
 I have built many things, but my favorite project right now is **CBIT Updates**.
 
