@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Jaideep**, a full-stack dev, security, design and automation enthusiast.
+I'm **Jaideep**, a dev, security, design and automation enthusiast.
 
 I design and build whatever I can imagine fast and securely.  
 
