@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Sup! 👋
 
 I'm **Jaideep**, a dev, security, design and automation enthusiast.
 
