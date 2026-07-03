@@ -16,7 +16,7 @@ I have built many things, but my favorite project right now is **CBIT Updates**.
 
 If you want to build something cool together, you can [Email me here](mailto:jaideeprajdutta@gmail.com).
 <br>
-Connect me on [Linkedin](www.linkedin.com/in/jaideep-raj-dutta-s-2907a7289).
+Connect me on [Linkedin](https://www.linkedin.com/in/jaideep-raj-dutta-s-2907a7289).
 
 **Fun Facts:**
 * I am into filmmaking, which I believe inherently helps me in my design thinking.
